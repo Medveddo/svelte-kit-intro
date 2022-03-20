@@ -1,5 +1,11 @@
 # create-svelte
 
+## Warning
+
+This is just a copy of application written by James Q Quick!!!
+
+[Link to the original video](https://youtu.be/UU7MgYIbtAk)
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
